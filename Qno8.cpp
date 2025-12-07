@@ -2,8 +2,7 @@
  using namespace std;
 int main ( ) { 
     int rollNo;
-    cout<<"Enter the Roll No of a studenr: "<<rollNo
-	;
+    cout<<"Enter the Roll No of a studenr: "<<rollNo;
     cin>>rollNo;
     cout<<"Each Subject has Total 100 Marks: "<<endl;
     int pf,ict,cg;
