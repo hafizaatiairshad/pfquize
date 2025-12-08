@@ -10,4 +10,4 @@ int main ( ) {
         cout<<"Number is odd "<<endl;
     }
     return 0;
-}
+} 
